@@ -1,0 +1,35 @@
+body{ 
+
+
+}h1{ font: size 50px; 
+
+
+
+}.orange{
+        color: coral;
+}section{
+        display: flex;text-size-adjust: 100;
+
+}.half-width{
+width: 70%;padding-left: 2%;margin-left: 5%;
+
+}.half-width-img{
+        width: 80%;
+} .half-hight{
+        width: 70%;padding-left: 2%;
+}.half-hight-img{
+        width: 80%;
+}.top-baner{
+        background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+}.top-banner{
+        background-image: url(exp-bg.png);background-repeat: no-repeat;
+}h1{ font-size: 700%;}.deve{ color: coral;}
+.hh{ font-size: 20px;}
+.mm{ font-size: 50px;}
+.meme{border-left:solid ;padding-left: 10px;
+margin: 10px;border-radius:10px;
+padding-left:10px ;padding-top: 10px;box-shadow: 10px 10px 40px rgb(46, 45, 45);
+}
+
+h3{ color: rgb(188, 206, 29);}
